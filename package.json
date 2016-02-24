@@ -1,0 +1,21 @@
+{
+  "name": "Nginx.Proxy",
+  "version": "0.0.1",
+  "description": "Nginx proxy for AWS deployment",
+  "author": "Memba Sarl",
+  "copyright": "Copyright ©2013-2016 Memba® Sarl. All rights reserved.",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/jlchereau/Nginx-Proxy",
+  "keywords": [
+    "memba",
+    "nginx",
+    "proxy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlchereau/Nginx-Proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jlchereau/Nginx-Proxy/issues"
+  }
+}
