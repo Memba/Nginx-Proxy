@@ -1,6 +1,6 @@
 {
   "name": "Nginx.Proxy",
-  "version": "0.2.46",
+  "version": "0.2.47",
   "description": "Nginx proxy for AWS deployment",
   "author": "Memba Sarl",
   "copyright": "Copyright ©2013-2016 Memba® Sarl. All rights reserved.",
